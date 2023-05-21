@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @rushiwaman95
+- 👋 Hi, I’m
+- <h1> @rushiwaman95</h1>
 - 👀 I’m interested in ...Python and Data Analtics,Machine Learning and AI
 - 🌱 I’m currently learning ...Data Analitics
 - 💞️ I’m looking to collaborate on ...
