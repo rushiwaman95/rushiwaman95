@@ -1,9 +1,6 @@
 - 👋 Hi, I’m
-- <h1> @rushiwaman95</h1>
-- 👀 I’m interested in ...Python and Data Analtics,Machine Learning and AI
-- 🌱 I’m currently learning ...Data Analitics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...rushiwaman95@gmail.com
+- <h1> @Rushikesh Waman</h1>
+
 
 <!---
 rushiwaman95/rushiwaman95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
